@@ -1,0 +1,16 @@
+{
+  "name": "@zibasec/abbreviate-epoch",
+  "version": "1.0.0",
+  "description": "Takes epoch and gives you YYYY, MM, DD, etc type attributes useful for string formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": ["time", "epoch"],
+  "author": "J. Davila",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "tape": "^4.13.0"
+  }
+}
