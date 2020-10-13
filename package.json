@@ -6,7 +6,10 @@
   "scripts": {
     "test": "standard && tape test.js"
   },
-  "keywords": ["time", "epoch"],
+  "keywords": [
+    "time",
+    "epoch"
+  ],
   "author": "J. Davila",
   "license": "MIT",
   "devDependencies": {
